@@ -24,7 +24,7 @@ A fully functional **Weather Application** built using `HTML`, `CSS`, and `JavaS
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Sriramj/weather-app.git
    ```
 
 2. Navigate to the project directory:  
